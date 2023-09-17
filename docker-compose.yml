@@ -8,7 +8,7 @@ services:
       SESSION: "your_session_value"
       API_ID: "your_api_id_value"
       API_HASH: "your_api_hash_value"
-      MONGO_URI: "your_mongo_uri_value"
+      MONGO_URI: "mongodb+srv://ultron:ultron@cluster0.pnaaxsa.mongodb.net/?retryWrites=true&w=majority"
       BOT_TOKEN: "your_bot_token_value"
       LOG_CHANNEL: "your_log_channel_value"
       DATABASE_URL: "your_database_url_value"
